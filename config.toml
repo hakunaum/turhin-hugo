@@ -1,5 +1,5 @@
-baseurl = "https://kead.eu"
-title = "Kead.Eu"
+baseurl = "https://webengadget.netlify.app"
+title = "webengadget.netlify.app"
 languageCode = "id"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
